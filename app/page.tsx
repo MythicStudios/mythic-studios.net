@@ -31,7 +31,7 @@ export default function Home() {
               variant="shadow"
               size="lg"
               as={Link}
-              href="/about-us">
+              href="/about">
               About Us
             </Button>
           </div>
